@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Empowering Early-Stage Brands",
+  "description": "AURA provides resources, commercial spaces, partnerships, and a long-term reward ecosystem for early-stage brands and founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
